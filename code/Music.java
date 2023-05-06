@@ -48,7 +48,7 @@ public class Music {
         line.close();
 
     }*/
-     String path ="file/music/bg1.mp3";
+/*     String path ="file/music/bg1.mp3";
 
     public  void getMusic()throws IOException, UnsupportedAudioFileException, LineUnavailableException{
         File file = new File(path);
@@ -95,7 +95,7 @@ public class Music {
         } catch (Exception e) {
             e.printStackTrace();
         }
-    }
+    }*/
 
 //    public static void main(String[] args) throws UnsupportedAudioFileException, LineUnavailableException, IOException {
 //     getMusic();
